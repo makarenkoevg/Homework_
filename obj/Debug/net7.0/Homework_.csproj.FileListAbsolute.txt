@@ -1,0 +1,15 @@
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\bin\Debug\net7.0\Homework_.exe
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\bin\Debug\net7.0\Homework_.deps.json
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\bin\Debug\net7.0\Homework_.runtimeconfig.json
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\bin\Debug\net7.0\Homework_.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\bin\Debug\net7.0\Homework_.pdb
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.csproj.AssemblyReference.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.AssemblyInfoInputs.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.AssemblyInfo.cs
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.csproj.CoreCompileInputs.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\refint\Homework_.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.pdb
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\Homework_.genruntimeconfig.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Итоги блока\Homework\Homework_\obj\Debug\net7.0\ref\Homework_.dll
