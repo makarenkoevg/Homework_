@@ -18,7 +18,7 @@ string[] newArray(string[] arr, int len){
 
     for (int i = 0; i < arr.Length; i++)
     {
-        if (arr[i].Length <= 3)
+        if (arr[i].Length <= len)
         {
             j+=1;
             Array.Resize(ref outArr, j);
